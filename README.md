@@ -25,3 +25,7 @@ This strategy will allow me to use each type of branch for parallel processing a
 
 # .gitignore
 * In order to instruct Git which files and directories to ignore when I make a commit, I will create a.gitignore file in the root directory of each repository. I will also Commit the .gitignore file to each repository to make the ignore rules available to anyone that clone the repository.
+
+# Credentials
+* Credentials will be stored in a file that is restricted to private viewing to safely secure the information from being compromised
+* Since the repository and project is public, only the invited markers/lecturers will oly be given access to read and access other information 
