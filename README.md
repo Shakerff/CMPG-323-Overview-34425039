@@ -5,6 +5,7 @@
 # For Project 4 (Testing & RPA), a repository named (CMPG 323 Project 4) will be created
 # For Project 5 (Reporting & Monitoring), a repository named (CMPG 323 Project 5) will be created
 
-![image](https://user-images.githubusercontent.com/91734031/185283442-acac30fc-95f6-48e4-a2ab-79f7b8deccdc.png)
+![image](https://user-images.githubusercontent.com/91734031/185284003-ed9cc5ae-c97d-403e-9b8e-b083de193148.png)
+
 
 
