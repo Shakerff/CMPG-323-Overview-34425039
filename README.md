@@ -23,5 +23,5 @@ This strategy will allow me to use each type of branch for parallel processing a
 
 * Hotfix Branch - I will utilise hotfix branches to only patch production code. To swiftly resolve issues and test the patches without immediately affecting production code (until it's ready to merge), I will isolate problematic code from the master branch.
 
-# gitignore
+# .gitignore
 * In order to instruct Git which files and directories to ignore when I make a commit, I will create a.gitignore file in the root directory of each repository. I will also Commit the .gitignore file to each repository to make the ignore rules available to anyone that clone the repository.
