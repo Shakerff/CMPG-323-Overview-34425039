@@ -29,3 +29,8 @@ This strategy will allow me to use each type of branch for parallel processing a
 # Credentials
 * Credentials will be stored in a file that is restricted to private viewing to safely secure the information from being compromised
 * Since the repository and project is public, only the invited markers/lecturers will oly be given access to read and access other information 
+
+# Charts for Project 1
+
+* Burndown chart
+* ![Burndown Chart](https://user-images.githubusercontent.com/91734031/187913326-75fdfaf1-0875-4116-ba77-09f5c59e601a.png)
