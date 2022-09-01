@@ -34,10 +34,13 @@ This strategy will allow me to use each type of branch for parallel processing a
 
 * Burndown chart
 ![Burndown Chart](https://user-images.githubusercontent.com/91734031/187913326-75fdfaf1-0875-4116-ba77-09f5c59e601a.png)
+
 * Status chart
 ![Status Chart](https://user-images.githubusercontent.com/91734031/187913527-0c7daa63-2322-4111-92fc-259ed8e48b2f.png)
+
 * Label chart
 ![Label Chart](https://user-images.githubusercontent.com/91734031/187913602-fa34c2ec-0c62-4def-9e19-93a09343b91f.png)
+
 * Sprint chart
 ![Sprint Chart](https://user-images.githubusercontent.com/91734031/187913664-c27d6d91-f5e5-4191-8e37-87b71bd33cf9.png)
 
