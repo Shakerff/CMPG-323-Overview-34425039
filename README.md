@@ -31,7 +31,7 @@ This strategy will allow me to use each type of branch for parallel processing a
 * Since the repository and project is public, only the invited markers/lecturers will oly be given access to read and access other information 
 
 # Portfolio of Evidence
-For my POE, I'm required to do several things which is aligned to the requirements of each project. Here is a list of the following items needed for me to compilke my POE:
+For my POE, I'm required to do several things which is aligned to the requirements of each project. Here is a list of the following items needed for me to compile my POE:
 * Attend all classes 
 * Create a LinkdeIn account
 * Join CMPG 323 LinkedIn group
@@ -52,4 +52,5 @@ For my POE, I'm required to do several things which is aligned to the requiremen
 * Update my GitHub overview repository throughout the semester
 
 Furthermore, I will aslo make use of other online community, social media platforms, YouTube to enance my understanding and knowledge. 
+To submit my POE, the lecturer will provide us with a Word document template where will attach the relevent and required documentation such as badges, trophies, certificatation, participation in communiuty forums, etc.
 
