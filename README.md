@@ -30,19 +30,26 @@ This strategy will allow me to use each type of branch for parallel processing a
 * Credentials will be stored in a file that is restricted to private viewing to safely secure the information from being compromised
 * Since the repository and project is public, only the invited markers/lecturers will oly be given access to read and access other information 
 
-# Charts for Project 1
+# Portfolio of Evidence
+For my POE, I'm required to do several things which is aligned to the requirements of each project. Here is a list of the following items needed for me to compilke my POE:
+* Attend all classes 
+* Create a LinkdeIn account
+* Join CMPG 323 LinkedIn group
+* Contributing to the class LinkedIn group
+* Create a GitHub account
+* Join UiPath community forum
+* Join Microsoft community forum
+* Attend atleast one community meetup
+* Submit all my projects
+* Complete Git training
+* Complete Scrum training
+* Complete Robotic Process Automation training
+* Complete Cloud training
+* Complete Data Visualisation Reporting training
+* Use of .gitignore files throughout the semester
+* Use of ReadME.Md files throughout the semester
+* Use GitHub project board throughout the semester
+* Update my GitHub overview repository throughout the semester
 
-* Burndown chart
-![Burndown Chart](https://user-images.githubusercontent.com/91734031/187913326-75fdfaf1-0875-4116-ba77-09f5c59e601a.png)
-
-* Status chart
-![Status Chart](https://user-images.githubusercontent.com/91734031/187913527-0c7daa63-2322-4111-92fc-259ed8e48b2f.png)
-
-* Label chart
-![Label Chart](https://user-images.githubusercontent.com/91734031/187913602-fa34c2ec-0c62-4def-9e19-93a09343b91f.png)
-
-* Sprint chart
-![Sprint Chart](https://user-images.githubusercontent.com/91734031/187913664-c27d6d91-f5e5-4191-8e37-87b71bd33cf9.png)
-
-
+Furthermore, I will aslo make use of other online community, social media platforms, YouTube to enance my understanding and knowledge. 
 
